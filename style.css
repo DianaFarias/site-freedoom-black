@@ -1,0 +1,35 @@
+body{}
+#banner {width: 100%;text-align: center;}
+.principal {  background: black;}
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    padding: 15px 0;
+}
+#missao {font: size 30px;}
+.texto { color: rgb(221, 208, 29);}
+.tema { 
+    color: cornsilk;
+}
+
+p { 
+    text-align: center;
+}
+
+em strong { 
+    color: black (15, 14, 13, 0);
+}           
+
+.itens {
+    font-style: italic;
+    color: white;
+}
+
+.beneficios { 
+    background: rgb(7, 7, 7);
+}
+h2 { 
+    text-align: center;
+    color: cornsilk;
+}
