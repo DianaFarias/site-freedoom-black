@@ -1,6 +1,6 @@
 body{}
 #banner {width: 100%;text-align: center;}
-.principal {  background: black;}
+.principal {  background: rgb(252, 248, 248);}
 h1 {
     text-align: center;
     color: white;
@@ -8,7 +8,7 @@ h1 {
     padding: 15px 0;
 }
 #missao {font: size 30px;}
-.texto { color: rgb(221, 208, 29);}
+.texto { color: rgb(15, 15, 14);}
 .tema { 
     color: cornsilk;
 }
@@ -16,9 +16,15 @@ h1 {
 p { 
     text-align: center;
 }
+ul{ 
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
 
 em strong { 
-    color: black (15, 14, 13, 0);
+    color: rgb(243, 233, 233) (15, 14, 13, 0);
 }           
 
 .itens {
@@ -27,9 +33,13 @@ em strong {
 }
 
 .beneficios { 
-    background: rgb(7, 7, 7);
+    background: rgb(24, 21, 21); 
 }
 h2 { 
     text-align: center;
     color: cornsilk;
 }
+
+ .imagemdownload { 
+     width: 30%;
+ }
